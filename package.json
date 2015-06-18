@@ -1,0 +1,37 @@
+{
+    "name": "showonscroll",
+    "version": "0.1.0",
+    "description": "Reveal selected elements on scroll. Uses CSS transitions.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'Please test in the browser by going to test/index.html'"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lesz3k/showOnScroll.git"
+    },
+    "keywords": [
+    "show",
+    "reveal",
+    "scroll",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+    "author": "Leszek Kasperczyk <leszek.kasperczyk@gmail.com> (http://frontend-developer.com)",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+  }
+],
+    "bugs": {
+        "url": "https://github.com/lesz3k/showOnScroll/issues"
+    },
+    "homepage": "https://github.com/lesz3k/showOnScroll#readme",
+    "devDependencies": {
+        "chai": "^3.0.0",
+        "jquery": "^2.1.4",
+        "mocha": "^2.2.5",
+        "requirejs": "^2.1.18"
+    }
+}
