@@ -1,6 +1,6 @@
 {
     "name": "showonscroll",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "A client side module using jQuery to initially hide selected elements and then reveal them when scrolled over. Multiple different elements can be passed. Using CSS transitions that can be modified from the module's settings. Use with Browserify for client side.",
     "main": "index.js",
     "scripts": {

@@ -35,4 +35,5 @@ Tests are handled in the browser - please go to test/index.html.
 
 ## Release History
 
+* 0.2.0 Updated description
 * 0.1.0 Initial release
