@@ -8,7 +8,10 @@
 
 
 /**
- * Reveal elements on scroll. Uses CSS transitions.
+ * A client side module using jQuery to initially hide selected elements and then reveal them when scrolled over. 
+Multiple different elements can be passed.
+Using CSS transitions that can be modified from the module's settings.
+Use with Browserify for client side.
  *
  */
 function showOnScroll() {
