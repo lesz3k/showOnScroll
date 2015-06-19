@@ -4,7 +4,7 @@
     "description": "Reveal selected elements on scroll. Uses CSS transitions.",
     "main": "index.js",
     "scripts": {
-        "test": "echo 'Please test in the browser by going to test/index.html'"
+        "test": "echo 'Tests are handled in the browser - please go to test/index.html'"
     },
     "repository": {
         "type": "git",

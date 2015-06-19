@@ -29,7 +29,7 @@ Using CSS transitions that can be modified from the module's settings.
 
 ## Tests
 
-In order to test please navigato to 'test/index.html'.
+Tests are handled in the browser - please go to test/index.html.
 
 ## Release History
 
